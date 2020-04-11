@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "path": "frontend"
+    },
+    {
+      "path": "api"
+    }
+  ],
+  "settings": {
+    "debug.internalConsoleOptions": "neverOpen"
+  }
+}

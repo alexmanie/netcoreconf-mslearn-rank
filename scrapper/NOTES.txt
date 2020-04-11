@@ -1,0 +1,9 @@
+
+docker build --no-cache --rm -f "Dockerfile" -t scrapper:latest "."
+
+docker run --rm -it  -p 8081:443/tcp -p 8080:80/tcp scrapper:latest
+
+
+http://localhost:8080/api/webscrapper?path=xxx
+
+

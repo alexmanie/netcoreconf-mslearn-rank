@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/fe6667a5-ed32-4482-a9d8-9a63be5a7dd0/resourceGroups/mslearn/providers/Microsoft.Web/sites/raona-mslearn-rank",
+    "appService.deploySubpath": ""
+}
